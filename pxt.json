@@ -1,0 +1,35 @@
+{
+    "name": "MakerMuseum_5",
+    "version": "1.0.0",
+    "description": "Extension for YahBoom MakerMuseum_5 V1.0.0",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts",
+        "_locales/zh-cn/MakerMuseum_5-strings.json",
+        "_locales/zh-tw/MakerMuseum_5-strings.json",
+        "_locales/zh-cn/MakerMuseum_5-jsdoc-strings.json",
+        "_locales/zh-tw/MakerMuseum_5-jsdoc-strings.json",
+        "shims.d.ts",
+        "enums.d.ts",
+        "ir.cpp",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "TransmitterIR.cpp",
+        "TransmitterIR.h"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj",
+    "license": "MIT"
+}
