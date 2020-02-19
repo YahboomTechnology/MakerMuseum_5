@@ -1,6 +1,6 @@
 # MakerMuseum_5
 
-Extension for YahBoom MakerMuseum_5 V1.0.0
+Extension for YahBoom MakerMuseum_5
 
 ## Use this extension
 

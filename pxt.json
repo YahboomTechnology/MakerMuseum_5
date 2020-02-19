@@ -1,10 +1,11 @@
 {
     "name": "MakerMuseum_5",
-    "version": "1.0.0",
-    "description": "Extension for YahBoom MakerMuseum_5 V1.0.0",
+    "version": "1.0.1",
+    "description": "Extension for YahBoom MakerMuseum_5 V1.0.1",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:lzty634158/pxt-neopixel"
+        "neopixel": "github:lzty634158/pxt-neopixel",
+        "GHBit": "github:YahboomTechnology/GHBit"
     },
     "files": [
         "README.md",
